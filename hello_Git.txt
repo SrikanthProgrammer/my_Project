@@ -1,4 +1,11 @@
-welcome to hello_Git
-
+welcome to hello_Git_!
+------------------------------------------------
+Technology: Java (Core and Advanced)
+ServerSide Technologies: Servlets and Struts2.0
+Frame works: Spring and Springboot
+Persistance: Hibernate
+RDBMS: MySQL
+FrontEnd Technologies: HTML,CSS,JavaScript
+------------------------------------------------
 helloWorld..!
 thank you :)
